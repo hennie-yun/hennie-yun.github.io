@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Hennie
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: hennie9401@gmail.com
+# phone: +82 10 
+address: Based in Korea
+# copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,22 +36,22 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Hennie <br> Full-stack Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/" }
+  - { icon: "ti-linkedin", link: "#" }
   - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-themify-favicon", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 안녕 날 소개하지 이름 윤해현 직업 트레블러 취미 메디테이션 
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+# blurb-btn-name: know more
 
 # About Page
 
@@ -88,10 +88,10 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Java, color: "#fdb157", value: "80%" }
+  - { name: Vue.js, color: "#9473e6", value: "60%" }
+  - { name: Spring boot, color: "#bdecf6", value: "95%" }
+  - { name: Jpa, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -300,4 +300,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: hennie9401@gmail.com
