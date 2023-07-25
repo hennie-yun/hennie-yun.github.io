@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Hennie <br> Full-stack Developer
+  hero-title: Hi! I’m <br> Hennie <br> Web-Developer
 
 social:
   - { icon: "ti-github", link: "https://github.com/" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: 안녕 날 소개하지 이름 윤해현 직업 취준생~~  취미 메디테이션인척하는 N 
+blurb: I like making fun, interactive things with code. I also talk & write about thoese things. 
 
 blurb-btn-link: "/about"
 # blurb-btn-name: know more
@@ -99,10 +99,10 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: LONDON LTD,
+      name: Operation Assistance,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Jul 2018 - Jul 2022",
+      organization: "GSM UK",
     }
   - {
       name: UX & UI Designer,
