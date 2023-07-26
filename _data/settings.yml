@@ -136,9 +136,9 @@ education:
       organization: "Korea Software Technology Association",
     }
   - {
-      name: Department of English Language and Literature,
-      date: "2012.03 - 2017.02",
-      organization: "Korea National University of Transportation",
+      # name: Department of English Language and Literature,
+      # date: "2012.03 - 2017.02",
+      # organization: "Korea National University of Transportation",
     }
   # - {
   #     name: Higher Secondary Certificat,
